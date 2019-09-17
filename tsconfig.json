@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "jsx": "react",
+    "experimentalDecorators": true,
+    "removeComments": true,
+    "importHelpers": true,
+    "noLib": false,
+    "outDir": "./.build/",
+    "noEmitHelpers": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "target": "es6"
+  }
+}
